@@ -1,0 +1,25 @@
+<!DOCTYPE htmI>
+<htmI Iang="en">
+<head>
+<title>lists and comments</title>
+<!--This a comment for 
+the next chapter--> 
+</head>
+<table>
+  <caption> STRUCTURE</caption>
+   <thead>
+     <tr> <th>HHH</th> <th>HHH</th> <th>HHH</th> </tr>
+   </thead>
+   <tfoot>
+     <tr> <td>fff</td> <td>fff</td> <td>fff</td> </tr>
+   </tfoot>
+   <tbody>
+     <tr> <td>CCC</td> <td>CCC</td> <td>CCC</td> </tr>
+     <tr> <td>CCC</td> <td>CCC</td> <td>CCC</td> </tr>
+   </tbody>
+ </table>
+ <style>
+  table, td, th {border:1px solid black; padding:15px}
+  td {color:purple}
+</style>
+  <a href=" https://pixabay.com/el/photos/%CE%B7-apple-%CE%BA%CF%8C%CE%BA%CE%BA%CE%B9%CE%BD%CE%BF-%CE%BA%CF%8C%CE%BA%CE%BA%CE%B9%CE%BD%CE%B1-%CE%BC%CE%AE%CE%BB%CE%B1-2788599/
